@@ -1,4 +1,4 @@
-# html
+# Alura Site para criar uma Barbearia
 
 Curso da aluara de HTML para criaçâo de um site.
 
